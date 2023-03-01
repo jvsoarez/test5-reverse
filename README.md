@@ -9,7 +9,7 @@
 
 Faça o clone deste repositório:
 
-   https://github.com/jvsoarez/test5-reverse.git
+    git clone https://github.com/jvsoarez/test5-reverse.git
     
 Entre no diretório
     
